@@ -1,6 +1,5 @@
 package com.vanniktech.rxriddles
 
-import com.vanniktech.rxriddles.solutions.Riddle6Solution
 import com.vanniktech.rxriddles.tools.RxRule
 import io.reactivex.Single
 import org.assertj.core.api.Java6Assertions.assertThat

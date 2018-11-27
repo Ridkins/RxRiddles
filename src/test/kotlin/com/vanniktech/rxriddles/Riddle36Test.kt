@@ -1,6 +1,5 @@
 package com.vanniktech.rxriddles
 
-import com.vanniktech.rxriddles.solutions.Riddle36Solution
 import com.vanniktech.rxriddles.tools.RxRule
 import io.reactivex.subjects.PublishSubject
 import org.junit.Rule

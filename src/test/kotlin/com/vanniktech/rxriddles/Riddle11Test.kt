@@ -1,6 +1,5 @@
 package com.vanniktech.rxriddles
 
-import com.vanniktech.rxriddles.solutions.Riddle11Solution
 import com.vanniktech.rxriddles.tools.RxRule
 import io.reactivex.Observable
 import io.reactivex.Single

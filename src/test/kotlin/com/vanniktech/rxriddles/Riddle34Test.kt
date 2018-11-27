@@ -1,6 +1,5 @@
 package com.vanniktech.rxriddles
 
-import com.vanniktech.rxriddles.solutions.Riddle34Solution
 import io.reactivex.Completable
 import io.reactivex.schedulers.Schedulers
 import org.assertj.core.api.Java6Assertions.assertThat

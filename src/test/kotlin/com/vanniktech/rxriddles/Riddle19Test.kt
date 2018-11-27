@@ -1,7 +1,6 @@
 package com.vanniktech.rxriddles
 
 import com.vanniktech.rxriddles.Riddle19.Interaction
-import com.vanniktech.rxriddles.solutions.Riddle19Solution
 import org.assertj.core.api.Java6Assertions.assertThat
 import org.junit.Test
 

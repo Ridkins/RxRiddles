@@ -1,6 +1,5 @@
 package com.vanniktech.rxriddles
 
-import com.vanniktech.rxriddles.solutions.Riddle5Solution
 import io.reactivex.subjects.BehaviorSubject
 import org.junit.Test
 

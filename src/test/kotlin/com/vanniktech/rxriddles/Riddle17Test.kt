@@ -1,6 +1,5 @@
 package com.vanniktech.rxriddles
 
-import com.vanniktech.rxriddles.solutions.Riddle17Solution
 import org.junit.Test
 import java.util.concurrent.atomic.AtomicInteger
 

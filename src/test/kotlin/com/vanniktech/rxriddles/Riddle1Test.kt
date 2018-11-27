@@ -1,6 +1,5 @@
 package com.vanniktech.rxriddles
 
-import com.vanniktech.rxriddles.solutions.Riddle1Solution
 import org.junit.Test
 
 /** Solution [Riddle1Solution] */

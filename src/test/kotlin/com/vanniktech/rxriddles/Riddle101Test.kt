@@ -1,6 +1,5 @@
 package com.vanniktech.rxriddles
 
-import com.vanniktech.rxriddles.solutions.Riddle101Solution
 import com.vanniktech.rxriddles.tools.RxRule
 import org.junit.Rule
 import org.junit.Test

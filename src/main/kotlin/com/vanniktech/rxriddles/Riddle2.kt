@@ -9,6 +9,9 @@ object Riddle2 {
    * Use case: You want to transform the data.
    */
   fun solve(source: Observable<Int>): Observable<Int> {
-    TODO()
+    return source.flatMap {
+       val incrementedValue = it+1
+      Observable.just(incrementedValue)
+    }
   }
 }

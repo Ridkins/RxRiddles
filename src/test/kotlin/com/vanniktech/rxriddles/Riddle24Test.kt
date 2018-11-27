@@ -1,6 +1,5 @@
 package com.vanniktech.rxriddles
 
-import com.vanniktech.rxriddles.solutions.Riddle24Solution
 import io.reactivex.Observable
 import org.junit.Test
 

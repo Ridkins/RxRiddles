@@ -1,6 +1,5 @@
 package com.vanniktech.rxriddles
 
-import com.vanniktech.rxriddles.solutions.Riddle29Solution
 import io.reactivex.subjects.MaybeSubject
 import org.assertj.core.api.Java6Assertions.assertThat
 import org.junit.Test
